@@ -115,9 +115,8 @@ I believe in continuous learning, practical implementation, and improving my tec
 
 I'm always interested in learning, collaborating, and connecting with people who share an interest in technology.
 
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here
+- 💼 **LinkedIn:** www.linkedin.com/in/sameer-nabi2199
 - 💻 **GitHub:** [Sameer-Nabi](https://github.com/Sameer-Nabi)
-
 ---
 
 <div align="center">
